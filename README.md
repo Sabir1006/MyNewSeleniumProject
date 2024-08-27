@@ -1,12 +1,8 @@
 # MyNewProject Automation Testing Using Selenium (Java)
 
-[![CI](https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml/badge.svg?branch=trunk&event=schedule)](https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml)
-
-<a href="https://selenium.dev"><img src="common/images/selenium_logo_mark_green.svg" width="180" alt="Selenium Logo"/></a>
-
 Selenium is an umbrella project encapsulating a variety of tools and
 libraries enabling web browser automation. Selenium specifically
-provides an infrastructure for the [W3C WebDriver specification](https://w3c.github.io/webdriver/)
+provides an infrastructure for the [W3C WebDriver specification](https:///www.google.com)
 — a platform and language-neutral coding interface compatible with all
 major web browsers.
 
