@@ -1,4 +1,4 @@
-#MyNewProject Automation Testing Using Selenium (Java).
+MyNewProject Automation Testing Using Selenium (Java).
 
 ##Java Selenium Automation Testing
 
